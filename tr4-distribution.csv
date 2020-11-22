@@ -14,8 +14,7 @@ Taiwan,1977,1
 ,1989,1
 ,1990,1
 ,1991,1
-Malaysia,1992,2
-Indonesia,1992,3
+"Malaysia, Indonesia",1992,3
 ,1993,3
 ,1994,3
 ,1995,3
@@ -36,18 +35,11 @@ Philippines,2005,6
 ,2010,6
 ,2011,6
 Oman,2012,7
-Jordan,2013,8
-Mozambique,2013,9
+"Jordan, Mozambique",2013,9
 Jordan,2014,10
-Australia,2015,11
-Lebanon,2015,12
-Pakistan,2015,13
+"Australia, Lebanon, Pakistan",2015,13
 ,2016,13
-Laos,2017,14
-Vietnam,2017,15
-Myanmar,2018,16
-Israel,2018,17
-India,2018,18
-Columbia,2019,19
-Thailand,2019,20
+"Laos, Vietnam",2017,15
+"Myanmar, Israel, India",2018,18
+"Columbia, Thailand",2019,20
 Turkey,2019,21
